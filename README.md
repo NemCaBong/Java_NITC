@@ -1,2 +1,2 @@
 # Java_NITC
-Học Java bên NITC
+Đây là bài tập về nhà Java
